@@ -1,0 +1,16 @@
+html body div #root #appFinalRoot{
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Inter', sans-serif;
+}
+
+.positive {
+  color: royalblue;
+}
+
+.negative {
+  color: red;
+}

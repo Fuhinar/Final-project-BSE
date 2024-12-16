@@ -1,0 +1,29 @@
+* {
+    font-family: "Inter", sans-serif;
+}
+  
+.typography {
+    text-indent: 20px;
+}
+  
+.typography * {
+    text-indent: 0px;
+}
+  
+.typography--sm {
+    font-size: 12px;
+    line-height: 16px;
+    font-weight: 400;
+}
+  
+.typography--md {
+    font-size: 14px;
+    line-height: 20px;
+    font-weight: 400;
+}
+  
+.typography--lg {
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 400;
+}
