@@ -121,7 +121,7 @@ input:disabled {
 
 .accordion-header:hover .accordion-toggle-icon {
   transform: scale(1.2)
-}
+} 
 
 .accordion-content {
   display: flex;

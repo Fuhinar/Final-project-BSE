@@ -91,7 +91,7 @@ function App() {
                             </Tooltip>
                         </Typography>
                         <Typography textSize="md">
-                            <Tooltip text="Market Cap in USD" position="top">
+                            <Tooltip text="The market capitalization of a cryptocurrency is calculated by multyplying the number of coins in circulation by the current price" position="top">
                                 <b>Market Cap USD: </b>{crypto.market_cap_usd}
                             </Tooltip>
                         </Typography>
